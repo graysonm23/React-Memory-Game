@@ -1,0 +1,12 @@
+body {
+  width: 100%;
+}
+
+.board {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  width: 50%;
+}
